@@ -1,5 +1,7 @@
 ### Hi there, I'm Shaddy 👋
 
+![](https://raw.githubusercontent.com/KojoShaddy/KojoShaddy/main/kojoshaddy1.png)
+
 I am software developer, ML enthusiast and a Community builder. Love to network, help others learn and build together to solve a technical world problem.
 
 
