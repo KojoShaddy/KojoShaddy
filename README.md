@@ -2,24 +2,23 @@
 
 ![](https://raw.githubusercontent.com/KojoShaddy/KojoShaddy/main/kojoshaddy1.png)
 
-I am software developer, ML enthusiast and a Community builder. Love to network, help others learn and build together to solve a technical world problem.
+#🚀 Tech Innovator | AI & ML Enthusiast | Community Leader
+I'm a Tech Community Builder, Software Developer and Tech entrepreneur passionate about innovation, mentorship, and empowering developers. I love networking, sharing knowledge, and collaborating to build impactful solutions for real-world problems.
 
-
-- 🔭 I’m currently working on C#, JavaScript, TypeScript, PHP, Microsoft Power Platform
-- 🌱 I’m currently learning APIs
-- 👯 I’m looking to collaborate on Desktop app development
-- 🤔 I’m looking for help with Web and Software development
-- 💬 Ask me about leading software project
-- 📫 How to reach me: [satelliton22@gmail.com](mailto:satelliton22@gmail.com) & Twitter: [@kojoshaddy](https://twitter.com/kojoshaddy)
+- 🔭 Currently working with C#, JavaScript, TypeScript, Python, Microsoft Power Platform
+- 🌱 Currently building Tech startups and tech communities
+- 👯 Looking to collaborate on Cloud development, workflow automation, and impactful tech community initiatives
+- 🤝 Open to Mentorship, speaking engagements, and tech advocacy
+- 💬 Ask me about: Leading tech communities, project management, Power Platform, and Cloud services
+- 📫 Reach me at [satelliton22@gmail.com](mailto:satelliton22@gmail.com) & LinkedIn: [Shadrack Inusah](https://linkedin.com/in/shadrack-inusah) & X: [@kojoshaddy](https://x.com/kojoshaddy)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Watching football match
+- ⚡ Fun fact: Huge football fan and passionate about community-driven impact!
 
-## Reach out to me 🌍
+## Connect with me 🌍
 - [LinkedIn](https://www.linkedin.com/in/shadrack-inusah/)
 - [Twitter](https://twitter.com/kojo_shaddy)
-- [Medium](https://medium.com/@kojo_shaddy)
 - [Instagram](https://www.instagram.com/kojo_shaddy/)
-- [YouTube](https://www.youtube.com/channel/UCJawROGPmVHDKZClRqXy1qQ)
+- [YouTube](https://www.youtube.com/@kojo_shaddy)
 
 ## 🚀 Skills
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
