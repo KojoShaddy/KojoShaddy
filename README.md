@@ -10,7 +10,7 @@ I'm a Tech Community Builder, Software Developer and Tech entrepreneur passionat
 - 👯 Looking to collaborate on Cloud development, workflow automation, and impactful tech community initiatives
 - 🤝 Open to Mentorship, speaking engagements, and tech advocacy
 - 💬 Ask me about: Leading tech communities, project management, Power Platform, and Cloud services
-- 📫 Reach me at [satelliton22@gmail.com](mailto:satelliton22@gmail.com) & LinkedIn: [Shadrack Inusah](https://linkedin.com/in/shadrack-inusah) & X: [@kojoshaddy](https://x.com/kojoshaddy)
+- 📫 Reach me at [satelliton22@gmail.com](mailto:satelliton22@gmail.com), LinkedIn: [Shadrack Inusah](https://linkedin.com/in/shadrack-inusah) & X: [@kojoshaddy](https://x.com/kojoshaddy)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Huge football fan and passionate about community-driven impact!
 
