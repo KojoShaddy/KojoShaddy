@@ -2,7 +2,7 @@
 
 ![](https://raw.githubusercontent.com/KojoShaddy/KojoShaddy/main/kojoshaddy1.png)
 
-####🚀 Tech Innovator | AI & ML Enthusiast | Community Leader <br>
+###🚀 Tech Innovator | AI & ML Enthusiast | Community Leader <br>
 I'm a Tech Community Builder, Software Developer and Tech entrepreneur passionate about innovation, mentorship, and empowering developers. I love networking, sharing knowledge, and collaborating to build impactful solutions for real-world problems.
 
 - 🔭 Currently working with C#, JavaScript, TypeScript, Python, Microsoft Power Platform
