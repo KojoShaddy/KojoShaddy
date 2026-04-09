@@ -2,8 +2,8 @@
 
 ![](https://raw.githubusercontent.com/KojoShaddy/KojoShaddy/main/kojoshaddy1.png)
 
-### 🚀 Tech Innovator | Project Manager | Community Advocate <br>
-I'm a Tech Community Builder, Software Developer and Tech entrepreneur passionate about innovation, mentorship, and empowering developers. I love networking, sharing knowledge, and collaborating to build impactful solutions for real-world problems.
+### 🚀 Software Engineer | Innovator | Project Manager | Community Advocate <br>
+I'm a Tech Community Builder, Software Engineer and Tech entrepreneur passionate about innovation, mentorship, and empowering developers. I love networking, sharing knowledge, and collaborating to build impactful solutions for real-world problems.
 
 - 🔭 Currently working with C#, JavaScript, TypeScript, Python, Google Cloud, Microsoft Power Platform
 - 🌱 Currently building Tech startups and tech communities
