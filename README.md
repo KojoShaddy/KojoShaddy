@@ -35,18 +35,10 @@ I'm a Tech Community Builder, Software Engineer and Tech entrepreneur passionate
 ![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![](https://aleen42.github.io/badges/src/photoshop.svg)
 
-## GitHub Status 🦸
-
-<img src="https://github-readme-stats.vercel.app/api?username=KojoShaddy&show_icons=true&theme=radical&cache_seconds=1800" />
-
-## Most Used Languages 📝
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KojoShaddy&layout=compact&theme=radical&cache_seconds=1800" />
-
 <br/><br/>
 
-<p align="center">
-  <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
+<p align="center" style="font-size: 24px;">
+  ❤️
 </p>
 
 <p align="center">By Kojo Shaddy</p>
