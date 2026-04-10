@@ -36,14 +36,17 @@ I'm a Tech Community Builder, Software Engineer and Tech entrepreneur passionate
 ![](https://aleen42.github.io/badges/src/photoshop.svg)
 
 ## GitHub Status 🦸
-![](https://github-readme-stats.vercel.app/api?username=KojoShaddy&show_icons=true&theme=radical)
+
+<img src="https://github-readme-stats.vercel.app/api?username=KojoShaddy&show_icons=true&theme=radical&cache_seconds=1800" />
 
 ## Most Used Languages 📝
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KojoShaddy&layout=compact&theme=radical)
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KojoShaddy&layout=compact&theme=radical&cache_seconds=1800" />
 
 <br/><br/>
 
 <p align="center">
   <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
 </p>
+
 <p align="center">By Kojo Shaddy</p>
