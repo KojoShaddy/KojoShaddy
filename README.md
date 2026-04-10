@@ -35,10 +35,8 @@ I'm a Tech Community Builder, Software Engineer and Tech entrepreneur passionate
 ![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![](https://aleen42.github.io/badges/src/photoshop.svg)
 
-<br/><br/>
 
 <p align="center" style="font-size: 24px;">
   ❤️
 </p>
-
-<p align="center">By Kojo Shaddy</p>
+<p align="center">Kojo Shaddy</p>
